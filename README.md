@@ -1,5 +1,6 @@
 # Welcome to My Mastermind
-Welcome to My project Mastermind
+
+<img align="center" alt="image" src="./image/photo.png">
 
 ## tasks
 For each exercise, you will have to create a folder and in this folder, you will have additional files that contain your work. 
